@@ -1,0 +1,8 @@
+Robotic Arm
+Shoulder	mueve servo de hombro	3	SLIDER	Eje Z	0	1.0	0.0
+Elbow	mueve servo de codo	3	SLIDER	Eje Y	0	1.0	0.0
+Wrist	mueve servo de muñeca	3	SLIDER	Rotación Y	0	1.0	0.0
+BaseRight	mueve servo base en sentido horario	1	BUTTON	Botón 5	0	0.0	0.0
+BaseLeft	mueve servo base en sentido antihorario	1	BUTTON	Botón 4	0	0.0	0.0
+RotateOFF	apaga servo base	1	BUTTON	Botón 1	0	0.0	0.0
+START_SEQ	inicia secuencia para golpear lata	1	BUTTON	Botón 3	0	0.0	0.0
